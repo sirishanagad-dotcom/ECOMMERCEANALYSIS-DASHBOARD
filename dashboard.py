@@ -5,7 +5,7 @@ import plotly.express as px
 
 # ---------------- PAGE CONFIG ----------------
 
-st.set_page_config(page_title="E-commerce Analytics Dashboard" layout="wide")
+st.set_page_config(page_title="E-commerce Analytics Dashboard", layout="wide")
 
 
 # ---------------- LOAD DATA ----------------
